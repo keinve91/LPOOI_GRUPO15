@@ -1,0 +1,33 @@
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\bin\Debug\Vistas.exe
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.Form1.resources
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.MainForm.resources
+C:\Users\PC\Downloads\LPOOI_GRUPO15-main\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\PC\Downloads\LPOOI_GRUPO15-main\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\PC\Downloads\LPOOI_GRUPO15-main\LPOOI_GRUPO15\Vistas\bin\Debug\Vistas.exe
+C:\Users\PC\Downloads\LPOOI_GRUPO15-main\LPOOI_GRUPO15\Vistas\bin\Debug\Vistas.pdb
+C:\Users\PC\Downloads\LPOOI_GRUPO15-main\LPOOI_GRUPO15\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\PC\Downloads\LPOOI_GRUPO15-main\LPOOI_GRUPO15\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\PC\Downloads\LPOOI_GRUPO15-main\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\LPOOI_GRUPO15-main\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.Form1.resources
+C:\Users\PC\Downloads\LPOOI_GRUPO15-main\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.MainForm.resources
+C:\Users\PC\Downloads\LPOOI_GRUPO15-main\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\PC\Downloads\LPOOI_GRUPO15-main\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\PC\Downloads\LPOOI_GRUPO15-CayoJuan\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\PC\Downloads\LPOOI_GRUPO15-CayoJuan\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\PC\Downloads\LPOOI_GRUPO15-CayoJuan\LPOOI_GRUPO15\Vistas\bin\Debug\Vistas.exe
+C:\Users\PC\Downloads\LPOOI_GRUPO15-CayoJuan\LPOOI_GRUPO15\Vistas\bin\Debug\Vistas.pdb
+C:\Users\PC\Downloads\LPOOI_GRUPO15-CayoJuan\LPOOI_GRUPO15\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\PC\Downloads\LPOOI_GRUPO15-CayoJuan\LPOOI_GRUPO15\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\PC\Downloads\LPOOI_GRUPO15-CayoJuan\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\LPOOI_GRUPO15-CayoJuan\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.Form1.resources
+C:\Users\PC\Downloads\LPOOI_GRUPO15-CayoJuan\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.MainForm.resources
+C:\Users\PC\Downloads\LPOOI_GRUPO15-CayoJuan\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\PC\Downloads\LPOOI_GRUPO15-CayoJuan\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
