@@ -93,12 +93,12 @@ namespace Vistas
 
             if (usuario != null)
             {
-                MessageBox.Show(
-                    string.Format("Bienvenido {0}\nRol: {1}", usuario.USU_ApellidoNombre, ObtenerRol(usuario)),
-                    "Acceso Concedido",
-                    MessageBoxButtons.OK,
-                    MessageBoxIcon.Information
-                );
+                // Abrir formulario principal
+                MainForm mainForm = new MainForm();
+                mainForm.Show();
+
+                // Ocultar o cerrar el login
+                this.Hide();
             }
             else
             {
@@ -108,7 +108,8 @@ namespace Vistas
 
 
 
-        // Como ROL_Codigo es protected, usamos reflexión para obtenerlo
+
+
         private string ObtenerRol(Usuario u)
         {
             var campo = typeof(Usuario).GetField("ROL_Codigo", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);

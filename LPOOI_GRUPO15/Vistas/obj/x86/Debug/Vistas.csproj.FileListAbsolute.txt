@@ -8,3 +8,4 @@ C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\bin\De
 C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.Form1.resources
 C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.exe
 C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Kevin\documents\visual studio 2010\Projects\LPOOI_GRUPO15\Vistas\obj\x86\Debug\Vistas.MainForm.resources
